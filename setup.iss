@@ -20,6 +20,7 @@ AppPublisher=jrsoftware.org
 AppPublisherURL=https://www.innosetup.com/
 AppSupportURL=https://www.innosetup.com/
 AppUpdatesURL=https://www.innosetup.com/
+UninstallDisplayName=Inno Setup
 VersionInfoCopyright=Copyright (C) 1997-2021 Jordan Russell. Portions Copyright (C) 2000-2021 Martijn Laan.
 AppMutex=InnoSetupCompilerAppMutex,Global\InnoSetupCompilerAppMutex
 SetupMutex=InnoSetupCompilerSetupMutex,Global\InnoSetupCompilerSetupMutex
